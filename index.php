@@ -1,5 +1,15 @@
 <?php
-/* !PHP Conditionals */
+/* 
+    !PHP Conditionals!
+    Move comment arrows
+    to isolate and 
+    manipulate code blocks.
+
+*/
+/*------>
+<------*/
+
+
 $a = 5;
 $b = 4;
 
